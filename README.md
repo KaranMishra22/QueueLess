@@ -25,6 +25,18 @@ QueueLess is a smart virtual queue system designed to reduce physical wait times
 
 ---
 
+## 📸 Screenshots
+
+### 🏠 Home Page
+![Home Page](./assets/Screenshots/Screenshot%202025-07-08%20155112.png)
+
+### 👤 Join Queue
+![Join Queue](./assets/Screenshots/Screenshot%202025-07-08%20155128.png)
+
+### 📊 Admin Dashboard
+![Admin Dashboard](./assets/Screenshots/Screenshot%202025-07-08%20155146.png)
+
+
 ## 🛠️ How to Run Locally
 
 ```bash
